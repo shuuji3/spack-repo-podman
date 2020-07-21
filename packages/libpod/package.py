@@ -35,7 +35,7 @@ class Libpod(MakefilePackage):
     # FIXME: Add a list of GitHub accounts to
     # notify when the package is updated.
     # maintainers = ['github_user1', 'github_user2']
-    version('1.9.3', sha256='2c44c6e5f61578e223dce2a2f48776adb553752a782e309e96f2d608e0ace81b')
+    version('1.9.3',     sha256='a16846fe076aaf2c9ea2e854c3baba9fb838d916be7fb4b5be332e6c92d907d4')
     version('1.8.2',     sha256='69f7ff81da1510ebf2962c1de3170675ca3cd8a24bc00c93742a24bcce17c752')
     version('1.8.0',     sha256='2f771dc5505bd29e21e18a71e6eac549d036ad34fbbec5646ae0c7bfe024eeb5')
 
